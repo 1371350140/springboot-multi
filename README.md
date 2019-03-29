@@ -4,7 +4,7 @@ springboot工程
 技术：springboot2.1.0  mybatis （仅个人测试用）
 
 目录结构：
-multi-cloud \n
+multi-cloud
     demo-app (app入口)
     demo-dao
     demo-obj
